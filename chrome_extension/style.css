@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 500px;
+}
+
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-color: green;
+}
+
+button{
+    width: 140px;
+    height: 40px;
+    color: white;
+    font-weight: bold;
+    background-color: green;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-color: green;
+    border: 1px solid green;
+    margin-left: 5px;
+}
+
+#delete-btn {
+    border-color: green;
+    color: green;
+    background-color: white;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+/* style the list according to the design */
+
+ul {
+    color: black;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    color: green;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+a {
+    color: green;
+    font-weight: bold;
+}
